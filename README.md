@@ -4,8 +4,7 @@
 ![I am a Frontend Developer](https://i.imgur.com/gmuwgwk.jpg)
 
 - 👀 I’m interested in learning React and Node.
-- 🌱 I’m currently practicing HTML, CSS, and JavaScript.
-- 💞️ I’m looking to collaborate on a project.
+- 🌱 I’m currently practicing JavaScript.
 - 📫 How to reach me: 
 - Twitter ---> https://twitter.com/_Aortizparodi
 - email   ---> aortizparodi@outlook.com
