@@ -14,10 +14,18 @@ My first experience with programming was at the University, with C++ learning al
 </p>
 <p>- 👀 I’m interested in learning React and Node.</p>
 <p>- 🎯 I’m currently practicing JavaScript.</p>
-<h3>⚡Contact me at:</h3>
-<p>- 🐦 Twitter: <a href="https://twitter.com/_Aortizparodi" target="_blank">https://twitter.com/_Aortizparodi</a></p>
-<p>- 💼 Linkedin: <a href="www.linkedin.com/in/aldo-miguel-ortiz-parodi" target="_blank">www.linkedin.com/in/aldo-miguel-ortiz-parodi</a></p>
-<p>- 📩 Email: <a href="mailto:aortizparodi@gmail.com" target="_blank">aortizparodi@gmail.com</a></p>
+<h3 align="center">⚡Contact me at:</h3>
+<div align="center">
+  <a href="https://twitter.com/_Aortizparodi" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/twitter/twitter-original.svg" alt="twitter" width="35" height="35"/></a>
+  &nbsp;
+  &nbsp;
+  <a href="www.linkedin.com/in/aldo-miguel-ortiz-parodi" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="35" height="35"/></a>
+  &nbsp;
+  &nbsp;
+    <a href="mailto:aortizparodi@gmail.com" target="_blank"> <img src="https://github.com/ArudoPE/ArudoPE/blob/master/email.svg" alt="email" width="35" height="35"/></a>
+  
+</div>
+<p>- 📩 Email: <a href="" target="_blank">aortizparodi@gmail.com</a></p>
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
