@@ -14,20 +14,19 @@ My first experience with programming was at the University, with C++ learning al
 </p>
 <p>- 👀 I’m interested in learning React and Node.</p>
 <p>- 🎯 I’m currently practicing JavaScript.</p>
-<h3 align="center">⚡Contact me at:</h3>
-<div align="center">
+<h3>⚡Contact me at:</h3>
+<div>
   <a href="https://twitter.com/_Aortizparodi" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/twitter/twitter-original.svg" alt="twitter" width="35" height="35"/></a>
   &nbsp;
   &nbsp;
   <a href="www.linkedin.com/in/aldo-miguel-ortiz-parodi" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/linkedin/linkedin-original.svg" alt="linkedin" width="35" height="35"/></a>
   &nbsp;
   &nbsp;
-    <a href="mailto:aortizparodi@gmail.com" target="_blank"> <img src="https://github.com/ArudoPE/ArudoPE/blob/master/email.svg" alt="email" width="35" height="35"/></a>
+    <a href="mailto:aortizparodi@gmail.com" target="_blank"> <img src="./assets/img/email.png" alt="email" width="35" height="35"/></a>
   
 </div>
-<p>- 📩 Email: <a href="" target="_blank">aortizparodi@gmail.com</a></p>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3>⚡Languages and Tools:</h3>
+<p>
   <a href="https://www.w3.org/html/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
   &nbsp;
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/css3/css3-original.svg" alt="css3" width="40" height="40"/> </a> 
@@ -39,11 +38,14 @@ My first experience with programming was at the University, with C++ learning al
   <a href="https://www.php.net/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/></a>
   &nbsp;
     <a href="wordpress.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="linux" width="40" height="40" alt="Wordpress"/></a>
-
+<h3>⚡My stats on GitHub:</h3>
 <div>
-<p align=""><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arudope&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="arudope" /></p>
-<p align=""><img src="https://github-readme-stats.vercel.app/api?username=arudope&show_icons=true&locale=en&theme=synthwave" alt="arudope" /></p>
-<p align=""><img src="https://github-readme-streak-stats.herokuapp.com/?user=arudope&theme=synthwave" alt="arudope" /></p>
+<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=arudope&theme=synthwave" alt="arudope" width="450px">
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api?username=arudope&show_icons=true&locale=en&theme=synthwave" alt="arudope" width="450px">
+</div>
+<div>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arudope&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="arudope"></div>
+&nbsp;
 </div>
 
-- 🔭 I’m currently working on this page.
+🔭 I’m currently working on this page.
