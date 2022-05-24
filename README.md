@@ -13,6 +13,14 @@ My first experience with programming was at the University, with C++ learning al
 - 👀 I’m interested in learning React and Node.
 - 🎯 I’m currently practicing JavaScript.
 
+## ⚡Skills:
+- 👨‍💻 HTML, CSS, JavaScript and PHP.
+- 💽 MySQL.
+- 📝 Git and Github.
+- 🌐 WordPress and Plesk.
+- 🔎 SEO
+- 🗄️ Plesk
+  
 ## ⚡Contact me at:
 <div>
   <a href="https://twitter.com/_Aortizparodi" target="_blank"> <img src="https://github.com/devicons/devicon/raw/master/icons/twitter/twitter-original.svg" alt="twitter" width="35" height="35"/></a>
@@ -24,14 +32,6 @@ My first experience with programming was at the University, with C++ learning al
     <a href="mailto:aortizparodi@gmail.com" target="_blank"> <img src="./assets/img/email.png" alt="email" width="35" height="35"/></a>
 </div>
 
-## ⚡Skills:
-- 👨‍💻 HTML, CSS, JavaScript and PHP.
-- 💽 MySQL.
-- 📝 Git and Github.
-- 🌐 WordPress and Plesk.
-- 🔎 SEO
-- 🗄️ Plesk
-
 ## ⚡My stats on GitHub:
 
 <div><img src="https://github-readme-streak-stats.herokuapp.com/?user=arudope&theme=dracula" alt="arudope"</div>
@@ -39,4 +39,3 @@ My first experience with programming was at the University, with C++ learning al
 <div><img src="https://github-readme-stats.vercel.app/api?username=arudope&show_icons=true&locale=en&theme=dracula" alt="arudope"></div>
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs?username=arudope&show_icons=true&locale=en&layout=compact&theme=dracula" alt="arudope"></div>
 &nbsp;
-🔭 I’m currently working on this page.
