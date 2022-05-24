@@ -10,8 +10,8 @@ I focus on what I design to be easy to use, fluid, and aesthetically appealing t
 My first experience with programming was at the University, with C++ learning algorithms at the age of 17, and I knew that I loved the world of programming and technology.
 
 ## ⚡What I'm doing and I plan to do:
-- 👀 I’m interested in learning React and Node.
 - 🎯 I’m currently practicing JavaScript.
+- 👀 I’m interested in learning React and Node.
 
 ## ⚡Skills:
 - 👨‍💻 HTML, CSS, JavaScript and PHP.
