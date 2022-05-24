@@ -40,9 +40,9 @@ My first experience with programming was at the University, with C++ learning al
     <a href="wordpress.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="linux" width="40" height="40" alt="Wordpress"/></a>
 <h3>⚡My stats on GitHub:</h3>
 <div>
-<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=arudope&theme=synthwave" alt="arudope" width="450px">
+<div><img src="https://github-readme-streak-stats.herokuapp.com/?user=arudope&theme=synthwave" alt="arudope" width="400px">
 &nbsp;
-<img src="https://github-readme-stats.vercel.app/api?username=arudope&show_icons=true&locale=en&theme=synthwave" alt="arudope" width="450px">
+<img src="https://github-readme-stats.vercel.app/api?username=arudope&show_icons=true&locale=en&theme=synthwave" alt="arudope" width="400px">
 </div>
 <div>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs?username=arudope&show_icons=true&locale=en&layout=compact&theme=synthwave" alt="arudope"></div>
 &nbsp;
