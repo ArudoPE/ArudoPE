@@ -17,9 +17,9 @@ My first experience with programming was at the University, with C++ learning al
 - 👨‍💻 HTML, CSS, JavaScript and PHP.
 - 💽 MySQL.
 - 📝 Git and Github.
-- 🌐 WordPress and Plesk.
-- 🔎 SEO
-- 🗄️ Plesk
+- 🌐 WordPress.
+- 🔎 SEO.
+- 🗄️ Plesk, Hostings and Domains Management.
   
 ## ⚡Contact me at:
 <div>
